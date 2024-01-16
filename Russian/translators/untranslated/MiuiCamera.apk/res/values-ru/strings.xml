@@ -1036,8 +1036,7 @@
     <string name="flat_selfie_tip_text">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_main">Поверните устройство, чтобы использовать камеру</string>
     <string name="flat_selfie_tip_text_sub">Переключите камеры на внешнем экране и поверните устройство</string>
-<!-- ### FROM SOURCE -->
-    <string name="flat_selfie_tip_text_sub_v1">"Close outer screen's camera to go back to inner screen"</string>
+    <string name="flat_selfie_tip_text_sub_v1">Закройте камеру внешнего экрана, чтобы вернуться к внутреннему экрану</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -1060,59 +1059,39 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="friend_exit_dialog_message">Если вы продолжите, устройства будут отключены друг от друга. Завершить этот сеанс сейчас?</string>
-    <string name="friend_exit_dialog_title">Завершить сеанс ассистентной камеры?</string>
+    <string name="friend_exit_dialog_title">Завершить сеанс вспомогательной камеры?</string>
     <string name="friend_mode_cast_inviting">%1$s хочет подключиться к этому устройству</string>
     <string name="friend_mode_description_content">Вспомогательная камера позволяет обмениваться предосмотром в режиме реального времени между двумя устройствами, подключенными к одной сети, и делать фотографии с одного устройства с другого.</string>
     <string name="friend_mode_description_title">О вспомогательной камере</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_gallery_toast">Looks like no photos were taken during this session</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_1_content">Keep two devices within %s meters from each other and open Assist cam on both of them.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_1_title">%d. Open Assist cam</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_2_content">"To make the devices visible to each other, connect both of them to the same Wi-Fi network or connect one device to the other via the portable hotspot.
-Connecting the devices via the hotspot might be more reliable, as external Wi-Fi networks might not allow the devices to be discoverable."</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_2_content_china">"To make the devices visible to each other, connect both of them to the same Wi-Fi network or connect one device to the other via the portable hotspot.
-Connecting the devices via the hotspot might be more reliable, as external Wi-Fi networks might not allow the devices to be discoverable."</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_2_title">%d. Connect devices together</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_3_content">"Select the device you want to connect to, send an invitation, and accept it on the other device.
-Use Assist cam in a stable network environment; otherwise, you might experience delay.
-If you're using a hotspot to connect, set its AP band to %s GHz in Settings > Connection &amp; sharing > Portable hotspot > Set up portable hotspot."</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_intro_3_title">%d. Start the session</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_introduction_content">Assist cam allows sharing live previews between two devices and taking photos with one device from the other one.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_introduction_title">About Assist cam</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_network_connection_prerequisites">To be able to use Assist cam, connect to a Wi-Fi network or hotspot first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_network_connection_prerequisites_china">To be able to use Assist cam, connect to a Wi-Fi network or hotspot first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_not_found_device">"Couldn't find devices"</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_re_searching">Search again</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_searching">Searching for devices…</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_searching_tips">Connect two devices to the same Wi-Fi network or hotspot and open Assist cam to be able to take photos with one device from the other one.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_searching_tips_china">Connect two devices to the same Wi-Fi network or hotspot and open Assist cam to be able to take photos with one device from the other one.</string>
-<!-- ### FROM SOURCE -->
-    <string name="friend_mode_select_device">Select assisting device</string>
+    <string name="friend_mode_gallery_toast">Похоже, что во время этой сессии не было сделано ни одной фотографии</string>
+    <string name="friend_mode_intro_1_content">Держите два устройства на расстоянии %s метров друг от друга и откройте вспомогательную камеру на обоих из них.</string>
+    <string name="friend_mode_intro_1_title">%d. Открыть вспомогательную камеру</string>
+    <string name="friend_mode_intro_2_content">Чтобы сделать устройства видимыми друг для друга, подключите их к одной сети Wi-Fi или соедините их через точку доступа.
+Подключение устройств через точку доступа может быть более надежным, так как сторонние сети Wi-Fi могут не позволить обнаружить устройства.</string>
+    <string name="friend_mode_intro_2_content_china">Чтобы сделать устройства видимыми друг для друга, подключите их к одной сети Wi-Fi или соедините их через точку доступа.
+Подключение устройств через точку доступа может быть более надежным, так как сторонние сети Wi-Fi могут не позволить обнаружить устройства</string>
+    <string name="friend_mode_intro_2_title">%d. Подключите устройства друг к другу</string>
+    <string name="friend_mode_intro_3_content">Выберите устройство, к которому хотите подключиться, отправьте приглашение и примите его на другом устройстве.
+Используйте вспомогательную камеру в стабильном сетевом окружении, иначе возможны задержки.
+Если для подключения используется точка доступа, установите диапазон частот на %s ГГц в Настройки > Подключение и общий доступ > Точка доступа > Настроить точку доступа.</string>
+    <string name="friend_mode_intro_3_title">%d. Начать сессию</string>
+    <string name="friend_mode_introduction_content">>Вспомогательная камера позволяет обмениваться предосмотром в режиме реального времени между двумя устройствами, подключенными к одной сети, и делать фотографии с одного устройства с другого.</string>
+    <string name="friend_mode_introduction_title">О вспомогательной камере</string>
+    <string name="friend_mode_network_connection_prerequisites">Чтобы воспользоваться вспомогательной камерой, сначала подключитесь к сети Wi-Fi или точке доступа.</string>
+    <string name="friend_mode_network_connection_prerequisites_china">Чтобы воспользоваться вспомогательной камерой, сначала подключитесь к сети Wi-Fi или точке доступа.</string>
+    <string name="friend_mode_not_found_device">Не удалось найти устройства</string>
+    <string name="friend_mode_re_searching">Повторный поиск</string>
+    <string name="friend_mode_searching">Поиск устройств...</string>
+    <string name="friend_mode_searching_tips">Подключите два устройства к одной сети Wi-Fi или точке доступа и откройте вспомогательную камеру, чтобы иметь возможность делать фотографии с одного устройства на другом..</string>
+    <string name="friend_mode_searching_tips_china">Подключите два устройства к одной сети Wi-Fi или точке доступа и откройте вспомогательную камеру, чтобы иметь возможность делать фотографии с одного устройства на другом..</string>
+    <string name="friend_mode_select_device">Выберите вспомогательное устройство</string>
     <string name="friend_mode_transfer_picture">Передача фотографий…</string>
-<!-- ### FROM SOURCE -->
-    <string name="frind_sign_button_accessibility">Turn off Assist cam</string>
+    <string name="frind_sign_button_accessibility">Выключить вспомогательную камеру</string>
     <string name="fromkeyguard_not_permission">Разблокируйте устройство для использования этой функции</string>
     <string name="front_camera_hint_text_place">"Снимать селфи будет проще,
 если развернуть устройство"</string>
     <string name="front_camera_hint_text_rotate">Разверните устройство</string>
-<!-- ### FROM SOURCE -->
-    <string name="function_friend_mode">Assist cam</string>
+    <string name="function_friend_mode">Вспомогательная камера</string>
     <string name="guide_pop_window_msg_cv_lens">Нажмите, чтобы попробовать Pro-объективы</string>
     <string name="guide_pop_window_msg_mimoji">Нажмите, чтобы использовать аватары</string>
     <string name="guide_pop_window_msg_softlight">Нажмите, чтобы настроить мягкую вспышку</string>
