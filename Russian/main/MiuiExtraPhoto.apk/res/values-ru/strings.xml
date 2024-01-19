@@ -346,11 +346,6 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="vlog_talkback_ratio_16_9">Шестнадцать на девять</string>
-    <string name="vlog_talkback_ratio_1_1">Один к одному</string>
-    <string name="vlog_talkback_ratio_3_4">Три на четыре</string>
-    <string name="vlog_talkback_ratio_4_3">Четыре на три</string>
-    <string name="vlog_talkback_ratio_9_16">Девять на шестнадцать</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
